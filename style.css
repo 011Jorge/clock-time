@@ -1,0 +1,439 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Fira Mono', monospace;
+    font-size: 12px;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    background-color: black;
+}
+
+h2 {
+    padding-left: 25px;
+    padding-right: 250px;
+    font-size: 15px;
+}
+
+.input-search {
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+.icon-user {
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+main {
+    background-color: #fff;
+    width: auto;
+    height: auto;
+    font-family: Helvetica, sans-serif;
+    display: flex;
+}
+
+.img-relogio001 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio001:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio001 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio001 {
+    color: red;
+}
+
+.p-relogio001 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio002 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio002:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio002 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio002 {
+    color: red;
+}
+
+.p-relogio002 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio003 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio003:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio003 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio003 {
+    color: red;
+}
+
+.p-relogio003 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio004 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio004:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio004 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio004 {
+    color: red;
+}
+
+.p-relogio004 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio005 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio005:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio005 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio005 {
+    color: red;
+}
+
+.p-relogio005 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio006 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio006:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio006 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio006 {
+    color: red;
+}
+
+.p-relogio006 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio007 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio007:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio007 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio007 {
+    color: red;
+}
+
+.p-relogio007 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio008 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio008:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio008 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio008 {
+    color: red;
+}
+
+.p-relogio008 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio009 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio009:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio009 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio009 {
+    color: red;
+}
+
+.p-relogio009 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio010 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio010:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio010 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio010 {
+    color: red;
+}
+
+.p-relogio010 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio011 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio011:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio011 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio011 {
+    color: red;
+}
+
+.p-relogio011 {
+    color: #808080;
+    font-size: 13px;
+}
+
+.img-relogio012 {
+    transition: tranform 0.3s ease-in-out;
+}
+
+.img-relogio012:hover {
+    cursor: zoom-in;
+    transform: scale(1.3);
+}
+
+#section-relogio012 {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(165, 164, 164, 0.185);
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.h5-relogio012 {
+    color: red;
+}
+
+.p-relogio012 {
+    color: #808080;
+    font-size: 13px;
+}
+
+footer {
+    font-family: 'Fira Mono', monospace;
+    margin-top: 100px;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+p {
+    color: #fff;
+    font-size: 25px;
+}
+
+nav {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+nav a {
+    padding: 20px;
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+}
+
+a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+
+.p-footer-dados {
+    font-size: 15px;
+}
